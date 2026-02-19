@@ -24,4 +24,4 @@ Peso normal
 Sobrepeso
 Obesidade grau I, II e III
 
-![Tela do projeto](assets/);
+![Tela do projeto](assets/imgCalculadoraIMC.png);
